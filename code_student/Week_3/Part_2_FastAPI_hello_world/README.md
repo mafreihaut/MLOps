@@ -100,3 +100,4 @@ logger = logging.getLogger("my-project-logger") # should be this name unless you
 6. Test out everything to make sure it works.
 
 7. Can you explain why this wouldn't work out-of-the-box? What do you notice about uvicorn's logging?
+8. 
