@@ -230,7 +230,7 @@ Click on `SSH Client`. There, you will find instructions on how to connect using
 </details>
 
 <details>
-     <summary><b>Accessing the EC2 instance using SSH</b></summary>
+     <summary><b>Accessing the EC2 Instance using SSH</b></summary>
 
 Let's jump back to VS Code with our `Terminal` window open inside.
 
