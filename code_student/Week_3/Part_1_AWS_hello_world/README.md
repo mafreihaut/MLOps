@@ -4,14 +4,11 @@
 </p>
 
 
-
 # <h1 align="center" id="heading">Part 1: AWS "Hello World"</h1>
 
 For this assignment, our goal will be to run python on a cloud server on Amazon Web Services(AWS). We will essentially be using AWS as a virtual machine. The AWS cloud server we'll be using today is called Elastic Compute Cloud (EC2).
 
 We'll first start by creating a repository and modifying it on our local machine. We'll then launch an EC2 instance (server) with a specific configuration so we can access it publicly. From there, we'll add our files that we modified to server and test it.
-
-Login and click on the top right user icon, then go to `repositories`. 
 
 <b>Let's Get started!</b>
 
