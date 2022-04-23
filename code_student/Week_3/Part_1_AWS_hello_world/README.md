@@ -54,7 +54,7 @@ Then click `Create Repository`.
 </details>
 
 <details>
-     <summary><b>Cloning our repository</b></summary>
+     <summary><b>Cloning our Repository</b></summary>
 
 <br>
 
