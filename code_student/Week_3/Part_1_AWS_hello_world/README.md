@@ -5,7 +5,7 @@
 
 
 
-# <h1 align="center" id="heading">AWS "Hello World"</h1>
+# <h1 align="center" id="heading">Part 1: AWS "Hello World"</h1>
 
 For this assignment, our goal will be to run python on a cloud server on Amazon Web Services(AWS). We will essentially be using AWS as a virtual machine. The AWS cloud server we'll be using today is called Elastic Compute Cloud (EC2).
 
