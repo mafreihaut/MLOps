@@ -75,7 +75,7 @@ app = FastAPI()
 7. Pull changes onto EC2 instance
 8. Install libraries in conda environment on EC2 instance by running `pip install -r requirements.txt`
 9. Launch server again by using `uvicorn main:app --host 0.0.0.0 --port 8000`
-10. Hit your server! Go to browser and go to `{public_ip}:8000/docs` and you should see the Swagger dogs where you can hit your health check endpoint. 
+10. Hit your server! Go to browser and go to `{public_ip}:8000/docs` and you should see the Swagger docs where you can hit your health check endpoint. 
 11. Nice you did it!
 ## Bonus
 
