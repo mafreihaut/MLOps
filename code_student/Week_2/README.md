@@ -18,4 +18,4 @@ cd code_student/Week_2
 pip install transformers praw torch torchvision torchaudio
 ```
 ## Jump In!
-The notebook is [here](https://github.com/FourthBrain/MLO3/blob/main/code_student/Week_2/reddit_and_huggingface.ipynb)
+The notebook is [here](https://github.com/FourthBrain/MLO3/blob/main/code_student/Week_2/reddit_and_huggingface_student.ipynb)
