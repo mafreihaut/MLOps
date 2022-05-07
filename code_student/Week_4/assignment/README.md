@@ -15,7 +15,7 @@ Then use the try it out button and enter a sentence.
 
 ```
 {
-  "query_string": "I like MLOps"
+  "query_string": "Have you ever been Rick Rolled?"
 }
 ```
 
@@ -26,7 +26,7 @@ curl -X 'POST' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
-  "query_string": "I like MLOps"
+  "query_string": "Have you ever been Rick Rolled?"
 }'
 ```
 
@@ -34,8 +34,12 @@ Response Body:
 ```
 [
   {
-    "label": "POSITIVE",
-    "score": 0.9919929504394531
+    "label": "NEGATIVE",
+    "score": 0.9846113324165344
   }
 ]
 ```
+### More Details
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+ <img src="https://jalammar.github.io/images/word2vec/word2vec.png" alt="Watch the video" width="480" height="360" border="10" />
+</a>
