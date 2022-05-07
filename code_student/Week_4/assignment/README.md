@@ -4,6 +4,7 @@
 
 ## Quick Easy Build and Run
 `docker build -t sentiment_app . ` 
+
 `docker run -it --rm --name sentiment_app sentiment_app`
 
 
